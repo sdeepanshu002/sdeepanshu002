@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sdeepanshu002
 - Here to learn new things, and make new projects.
-- To contact me... DM me on  INSTAGRAM:-  sdeepanshu002
+- To contact me... DM me on  INSTAGRAM:-  sdeepanshu002,
                              TWITTER:- sdeepanshu002
                              
 <!---
