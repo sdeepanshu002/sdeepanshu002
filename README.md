@@ -4,7 +4,6 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sdeepanshu002&label=Profile+Views&color=0e75b6&style=flat" alt="profile views" />
-  <a href="https://twitter.com/sdeepanshu002"><img src="https://img.shields.io/twitter/follow/sdeepanshu002?logo=twitter&style=flat&color=1DA1F2" alt="Twitter" /></a>
 </p>
 
 ---
@@ -59,9 +58,6 @@
 ## 🤝 Connect with Me
 
 <p align="left">
-  <a href="https://twitter.com/sdeepanshu002" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
   <a href="https://instagram.com/deepanshu_sharma24" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
